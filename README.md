@@ -19,24 +19,15 @@ Learners will understand:
   - Probability Functions
   - Expected Value
   - Measures of Central Tendency, Dispersion and Relatedness
-  - Marginal and Conditional Probabilities
   - Distributions in Machine Learning
-- Information Theory
-  - Self-Information
-  - Nats, Bits and Shannons
-  - Shannon and Differential Entropy
-  - Kullback-Leibler Divergence
-  - Cross-Entropy
 - Statistics
   - z-scores
   - p-values
   - t-tests
   - Confidence Intervals
-  - ANOVA
   - Perason Correlation
   - R-squared
   - Correlation vs Causation
-  - Correcting for Multiple Comparisons
 
 Learners will be able to:
 
@@ -48,12 +39,12 @@ Learners will be able to:
 | -------- | ----------------------- | -------------------------------------------------------- |
 | - 5mins  | Start zoom session      | So that learners can join early and start class on time. |
 | 20 mins  | Activity                | Recap on self-study and prework materials.               |
-| 40 mins  | Code-along              | Part 1: Introduction to probability.                     |
+| 40 mins  | Code-along              | Part 1:    Introduction to probability.                 |
 |          | **1 HR MARK**           |
-| 30 mins  | Code-along              | Part 2: Distributions in machine learning.               |
+| 30 mins  | Code-along              | Part 2:     Distributions in machine learning.              |
 | 10 mins  | Break                   |                                                          |
-| 20 mins  | Code-along              | Part 3: Information theory.                              |
+| 20 mins  | Code-along              | Part 3:    Introduction to statistics.                          |
 |          | **2 HR MARK**           |
-| 50 mins  | Code-along              | Part 4: Introduction to statistics.                      |
+| 50 mins  | Code-along              | Part 3:      Introduction to statistics.            |
 | 10 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.           |
 |          | **END CLASS 3 HR MARK** |
