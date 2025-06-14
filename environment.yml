@@ -17,4 +17,3 @@ dependencies:
   - statsmodels=0.14.0
   - pip:
       - pmdarima==2.0.4
-prefix: /Users/zanelim/miniconda3/envs/ml
