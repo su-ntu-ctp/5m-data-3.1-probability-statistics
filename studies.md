@@ -10,3 +10,4 @@ In this lesson, we will be learning the foundation of machine learning- concepts
 - Revisit and review the following materials:
   - Unit 1.6 - Introduction to Numpy
   - Unit 1.10 - Data Visualization
+- Check out the topics on [Probability and Statistics](https://www.mathsisfun.com/data/index.html) section 
