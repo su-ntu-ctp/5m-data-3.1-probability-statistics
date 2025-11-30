@@ -1,5 +1,9 @@
 # 3.1 Probability and Statistics for Machine Learning
 
+## Lesson Overview
+
+![Statistics](/assets/infographic-3.1-statistics.png)
+![Probability](/assets/infographic-3.1-probability.png)
 ## Dependencies
 
 Refer to the following markdown file for the respective sections of the class:
