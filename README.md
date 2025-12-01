@@ -2,7 +2,6 @@
 
 ## Lesson Overview
 
-![Statistics](/assets/infographic-3.1-statistics.png)
 ![Probability](/assets/infographic-3.1-probability.png)
 ## Dependencies
 
