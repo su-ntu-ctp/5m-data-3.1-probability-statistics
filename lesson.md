@@ -5,6 +5,7 @@
 ### Preparation
 
 Create the conda environment based on the `environment.yml` file.
+`conda env create -f environment.yml`
 
 ### Lesson Overview
 
