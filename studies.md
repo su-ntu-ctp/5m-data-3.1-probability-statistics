@@ -4,7 +4,7 @@
 
 Welcome to our flipped-classroom session, where you'll review foundational concepts beforehand to maximize our time for hands-on coding and debugging. This pre-study focuses on **Probability and Statistics**, the mathematical backbone of machine learning. Understanding these concepts is critical for quantifying uncertainty, evaluating model performance, and making data-driven decisions in professional environments.
 
-## **⚡ Your Self-Study Tasks**
+## ⚡ Your Self-Study Tasks
 
 Please complete the following activities before our session.
 
