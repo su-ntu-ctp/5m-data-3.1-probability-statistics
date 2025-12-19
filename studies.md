@@ -1,6 +1,6 @@
 # **Self-Study Preparation Guide**
 
-**⏳ Estimated Prep Time:** 60–80 minutes
+**⏳ Estimated Prep Time:** 60 minutes
 
 Welcome to our flipped-classroom session, where you'll review foundational concepts beforehand to maximize our time for hands-on coding and debugging. This pre-study focuses on the mathematical pillars of Machine Learning: **Probability Distributions** and **Statistical Inference**. 
 
