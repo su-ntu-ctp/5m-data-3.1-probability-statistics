@@ -15,5 +15,8 @@ dependencies:
   - seaborn=0.12.2
   - sktime=0.25.0
   - statsmodels=0.14.0
+  - graphviz
+  - python-graphviz
+  - pydotplus
   - pip:
       - pmdarima==2.0.4
