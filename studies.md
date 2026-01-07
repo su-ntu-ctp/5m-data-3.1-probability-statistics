@@ -22,11 +22,6 @@ Open the [`Part_1_probability_statistics_lesson.ipynb`](/notebooks/Part_1_probab
 
 Review the code cells that utilize `np.random.binomial` and `np.mean`. Pay close attention to how the sample mean stabilizes as the number of experiments increases.
 
-**Guiding Questions:**
-* **Law of Large Numbers:** In the coin flip simulation, why does the probability line appear "jittery" with small sample sizes but flatten out as $N$ increases?
-* **Descriptive Stats:** Why might we prefer the **Median** over the **Mean** when analyzing a dataset with extreme outliers (skewed distribution)?
-* **Correlation:** How does the `np.cov` (covariance) matrix relate to `st.pearsonr` (correlation)? Why is correlation often preferred for measuring relatedness?
-
 ### 📝 Task 2: Distributions and The Central Limit Theorem (20 Minutes)
 
 **Activity:** 
@@ -39,10 +34,6 @@ Open the [`Part_2_probability_statistics_lesson.ipynb`](./notebooks/Part_2_proba
 
 Examine the visual difference between Uniform, Normal (Gaussian), and Skewed distributions using the `seaborn` plots provided.
 
-**Guiding Questions:**
-* **Normal Distribution:** Why is the "Bell Curve" (Gaussian distribution) the default assumption for noise in many Machine Learning models?
-* **Central Limit Theorem (CLT):** Look at the code where we sample from a *skewed* or *uniform* distribution. What happens to the shape of the distribution of the **sample means** as the sample size increases? Why is this phenomenon powerful for data science?
-
 ### 📝 Task 3: Statistical Inference and Hypothesis Testing (20 Minutes)
 
 **Activity:** 
@@ -54,10 +45,6 @@ Watch the video titled [**"Statistical Testing"**](https://youtu.be/Uos-xeDAvqA)
 Continue in [`Part_3_probability_statistics_lesson.ipynb`](/notebooks/Part_3_probability_statistics_lesson.ipynb), moving to **"Part 3: Introduction to Statistics."** Review the concepts of **Z-scores**, **p-values**, and the **t-test**.
 
 Trace the logic of the "Penguin Hypothesis Testing" scenario. Do not worry about writing the code yet, but understand *why* we are separating the data into Male and Female groups.
-
-**Guiding Questions:**
-* **Z-Scores:** If a data point has a z-score of +2.5, what does that tell you about its relationship to the average data point? How might this help you detect anomalies?
-* **T-Test:** When comparing the flipper lengths of two groups of penguins, what does a p-value lower than 0.05 imply about the difference between those groups?
 
 ## 🙌🏻 Active Engagement Strategies
 
