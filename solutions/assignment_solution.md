@@ -78,7 +78,7 @@ Complete the following exercises using Python.
 
    # Calculate confidence intervals
    def conf_interval(data):
-       return st.t.interval(alpha=0.95,
+       return st.t.interval(confidence=0.95,
                           df=len(data)-1,
                           loc=np.mean(data),
                           scale=st.sem(data))
