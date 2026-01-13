@@ -18,7 +18,9 @@ Refer to the following markdown file for the respective sections of the class:
 By the end of the lesson, you will be able to
 
 * Calculate and interpret fundamental probability metrics,.
+
 * Visualize common continuous and discrete probability distributions to underlying patterns in real-world datasets.
+
 * Apply fundamental statistical inference techniques.
 
 ## Lesson Plan
